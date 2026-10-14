@@ -1,0 +1,6 @@
+{
+  "name": "MQ Diagnostic Care - Laboratory & Patient Portal",
+  "description": "Official portal for MQ Diagnostic Care, Trisulia Baranga. Book laboratory pathology tests, home sample collection, track booking status, and view or download secure diagnostic test reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
